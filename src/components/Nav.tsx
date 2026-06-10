@@ -111,7 +111,7 @@ export default function Nav() {
           onClick={(e) => navigate(e, "#hero")}
           className="font-display text-xl text-ink leading-none"
         >
-          Mouss<span className="text-oxblood">.</span>
+          Moussa<span className="text-oxblood">.</span>
         </a>
 
         {/* Desktop nav — hidden on mobile */}

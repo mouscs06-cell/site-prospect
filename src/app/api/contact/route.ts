@@ -28,7 +28,7 @@ export async function POST(req: Request) {
     await resend.emails.send({
       // Remplacer par une adresse sur votre domaine vérifié Resend en production.
       // onboarding@resend.dev fonctionne en test (livraison uniquement vers le compte Resend).
-      from: "Mouss Studio <onboarding@resend.dev>",
+      from: "Moussa Studio <onboarding@resend.dev>",
       to: process.env.CONTACT_EMAIL ?? "mouscs06@gmail.com",
       replyTo: email,
       subject: `Nouveau message de ${nom}`,

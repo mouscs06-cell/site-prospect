@@ -4,7 +4,7 @@
 > (ni chiffres, ni témoignages, ni métriques). Remplace les `[À REMPLIR]`.
 
 ## À remplir avant la fin
-- [ ] Nom / nom de studio affiché (placeholder actuel : **Mouss.**)
+- [x] Nom / nom de studio affiché : **Moussa.**
 - [x] Prix réels des 3 formules — Essentiel 990 €, Signature 2 500 €, Sur-mesure sur devis
 - [x] E-mail de contact — mouscs06@gmail.com
 - [ ] Captures d'écran des 3 sites + photo portrait (Phase 0, à la fin)
@@ -12,7 +12,7 @@
 ---
 
 ## Marque
-- Nom affiché : **Mouss.** *(le point fait partie du logo)*
+- Nom affiché : **Moussa.** *(le point fait partie du logo)*
 - Tagline courte : Sites e-commerce sur-mesure
 - Positionnement : Studio indépendant — design & développement e-commerce, France
 
@@ -128,7 +128,7 @@ Bas de section : `Tous les sites incluent un design responsive, un site rapide e
 ---
 
 ## À propos
-- Titre : `Je m'appelle Mouss. Je conçois et code des boutiques en ligne, *de A à Z.*`
+- Titre : `Je m'appelle Moussa. Je conçois et code des boutiques en ligne, *de A à Z.*`
 - Para 1 : Pas d'intermédiaire, pas de sous-traitance : vous parlez directement à la personne qui dessine et qui développe. C'est ce qui permet d'aller vite et de garder une vraie cohérence entre l'image et le site.
 - Para 2 : Je travaille avec une stack moderne — **Next.js, Stripe et une infrastructure solide** — pour livrer des sites rapides, durables et faciles à faire évoluer. L'objectif n'est jamais de faire « joli » : c'est de construire un outil qui vend.
 
@@ -146,5 +146,5 @@ Bas de section : `Tous les sites incluent un design responsive, un site rapide e
 - CTA : Écrire un e-mail → mailto:mouscs06@gmail.com · + formulaire (nom, e-mail, message)
 
 ## Footer
-- `© 2026 Mouss — Studio web`
+- `© 2026 Moussa — Studio web`
 - `Sites e-commerce sur-mesure`

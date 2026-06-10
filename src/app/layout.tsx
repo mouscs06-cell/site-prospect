@@ -27,7 +27,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mouss. — Design & E-commerce sur-mesure",
+  title: "Moussa. — Design & E-commerce sur-mesure",
   description:
     "Studio indépendant spécialisé en création de boutiques e-commerce sur-mesure. Design, développement Next.js, Stripe, mise en ligne — par une seule personne.",
 };

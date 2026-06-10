@@ -18,7 +18,7 @@ export default function About() {
               className="font-display font-normal tracking-[-0.005em] mb-6"
               style={{ fontSize: "clamp(1.9rem, 3.8vw, 2.9rem)", lineHeight: "1.12" }}
             >
-              Je m&apos;appelle Mouss. Je conçois et code des boutiques en ligne,{" "}
+              Je m&apos;appelle Moussa. Je conçois et code des boutiques en ligne,{" "}
               <em className="italic text-oxblood">de A à Z.</em>
             </h3>
 
